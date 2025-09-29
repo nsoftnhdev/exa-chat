@@ -1,7 +1,6 @@
 import { useSocialAuth } from "@/hooks/useSocialAuth";
 import {
   ActivityIndicator,
-  Button,
   Image,
   Text,
   TouchableOpacity,
